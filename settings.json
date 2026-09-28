@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "R0cketSmpBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "R0cketSmpp.aternos.me:63551",
     "port": 63551,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Hi!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
